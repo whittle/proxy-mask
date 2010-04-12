@@ -1,0 +1,3 @@
+proxy-mask
+
+A quick ’n’ dirty way for classes to create their own proxy classes. 

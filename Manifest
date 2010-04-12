@@ -1,0 +1,12 @@
+CHANGELOG
+LICENSE
+Manifest
+README
+Rakefile
+lib/proxy_mask.rb
+lib/proxy_mask/basic_object.rb
+lib/proxy_mask/proxy_mask.rb
+proxy-mask.gemspec
+spec/proxy_mask/basic_object_spec.rb
+spec/proxy_mask/proxy_mask_spec.rb
+spec/spec_helper.rb
